@@ -39,6 +39,26 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".PickHeaderActivity"
+            android:label="@string/pick_header"
+            android:theme="@android:style/Theme.Material.Settings" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".BrowseThemeHeaderActivity"
+            android:label="@string/browse_theme_header"
+            android:theme="@android:style/Theme.Material.Settings" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
 
         <activity
             android:name=".nature"
@@ -83,6 +103,16 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".colorful"
             android:label="Colorful" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".theme"
+            android:label="Theme" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
