@@ -24,7 +24,8 @@ else
 support_library_root_dir := prebuilts/sdk/current/support
 endif
 
-LOCAL_STATIC_JAVA_LIBRARIES += android-support-v7-cardview
+LOCAL_STATIC_JAVA_LIBRARIES += android-support-v4 \
+    android-support-v7-cardview
 
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
     $(support_library_root_dir)/v7/cardview/res
