@@ -109,7 +109,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".idk_cl0udybtlg"
-            android:label="Cloudy Mood" >
+            android:label="PH - Cloudy Mood" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -118,7 +118,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".ig_fxckingmind"
-            android:label="fxckingdeathwish's mind" >
+            android:label="PH - fxckingdeathwish's mind" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -127,7 +127,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".idk_sumtim"
-            android:label="Summertime" >
+            android:label="PH - Summertime" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -135,8 +135,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             </intent-filter>
         </activity>
         <activity
-            android:name=".clo_astauroraast"
-            android:label="* Aurora Borealis * (COLOURLOVERS)" >
+            android:name=".nataliasolaange"
+            android:label="PH - nataliasolaange collection" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -144,62 +144,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             </intent-filter>
         </activity>
         <activity
-            android:name=".clo_chasinglightnings"
-            android:label="Chasing Lightnings (COLOURLOVERS)" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".clo_childofdarkness"
-            android:label="Child of Darkness (COLOURLOVERS)" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".clo_diffusedreams"
-            android:label="Diffuse dreams (COLOURLOVERS)" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".clo_luminiscentbirds"
-            android:label="Luminescent birds (COLOURLOVERS)" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".clo_pyre"
-            android:label="pyre (COLOURLOVERS)" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".clo_sparklinginmypond"
-            android:label="sparkling in my pond (COLOURLOVERS)" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".clo_starfishisland2"
-            android:label="starfish island 2.2 (COLOURLOVERS)" >
+            android:name=".clo_llection"
+            android:label="CL - Best of COLOURLovers.com" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 

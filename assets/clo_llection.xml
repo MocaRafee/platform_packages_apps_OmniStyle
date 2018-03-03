@@ -20,10 +20,12 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <hour_header hour="0" image="clof_chasinglightnings" />
-    <hour_header hour="8" image="clof_chasinglightnings" />
-    <hour_header hour="11" image="clof_chasinglightnings" />
-    <hour_header hour="15" image="clof_chasinglightnings" />
-    <hour_header hour="18" image="clof_chasinglightnings" />
-    <hour_header hour="20" image="clof_chasinglightnings" />
+    <random_header image="clof_astauroraast" />
+    <random_header image="clof_chasinglightnings" />
+    <random_header image="clof_childofdarkness" />
+    <random_header image="clof_diffusedreams" />
+    <random_header image="clof_luminiscentbirds" />
+    <random_header image="clof_pyre" />
+    <random_header image="clof_sparklinginmypond" />
+    <random_header image="clof_starfishisland2" />
 </daylight_headers>
