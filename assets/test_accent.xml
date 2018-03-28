@@ -20,6 +20,5 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <random_header image="tclda_discs" />
     <random_header image="test_zerotwoeyes" />
 </daylight_headers>
