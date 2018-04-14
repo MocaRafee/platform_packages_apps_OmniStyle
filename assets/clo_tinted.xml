@@ -21,7 +21,7 @@ day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
     <random_header image="clt_aurora_tint" />
-    <random_header image="clt_autumleafs_tint" />
+    <random_header image="clt_autumnleafs_tint" />
     <random_header image="clt_blarghvines_tint" />
     <random_header image="clt_darknature_tint" />
     <random_header image="clt_discs_tint" />
@@ -34,7 +34,6 @@ day_header entries have a higher priority then hour entries -->
     <random_header image="clt_prismaticside_tint" />
     <random_header image="clt_roundedbeauty_tint" />
     <random_header image="clt_shortedout_tint" />
-    <random_header image="clof_moonlightreflection_tint" />
     <random_header image="clt_sound_tint" />
     <random_header image="clt_spectrum_tint" />
     <random_header image="clt_tech687d_tint" />
