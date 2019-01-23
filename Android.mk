@@ -28,7 +28,7 @@ LOCAL_STATIC_JAVA_LIBRARIES += android-support-v4 \
     android-support-v7-cardview
 
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
-    $(support_library_root_dir)/v7/cardview/res
+    $(support_library_root_dir)/cardview/res
 
 LOCAL_AAPT_FLAGS := --auto-add-overlay \
     --extra-packages android.support.v7.cardview
@@ -37,5 +37,6 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 LOCAL_PACKAGE_NAME := OmniStyle
 LOCAL_CERTIFICATE := platform
 LOCAL_PRIVILEGED_MODULE := true
+LOCAL_PRIVATE_PLATFORM_APIS := true
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PACKAGE)
