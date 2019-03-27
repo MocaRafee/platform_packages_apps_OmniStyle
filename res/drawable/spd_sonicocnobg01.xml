@@ -1,0 +1,11 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:drawable="@drawable/spf_sonicoc1_l1"
+        />
+    <item>
+        <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+            android:src="@drawable/spf_sonicoc1_l2"
+            android:tint="@color/header_system_accent"/>    
+    </item>
+<item android:drawable="@drawable/spf_sonicoc1_l3"
+        />
+</layer-list>

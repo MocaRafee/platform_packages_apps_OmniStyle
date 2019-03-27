@@ -20,15 +20,13 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <random_header image="test_zerotwoeyes" />
-    <random_header image="spd_sonicocnobg01" />
-    <random_header image="spd_sonicocnobg02" />
-    <random_header image="spd_sonicocnobg03" />
-    <random_header image="spd_sonicocnobg04" />
-    <random_header image="spd_sonicocnobg05" />
-    <random_header image="spd_sonicocnobg06" />
-    <random_header image="spd_sonicocnobg07" />
-    <random_header image="spd_sonicocnobg08" />
-    <random_header image="spd_sonicocnobg09" />
-    <random_header image="spd_sonicocnobg10" />
+    <random_header image="cl_pizzshufied_01" />
+    <random_header image="cl_pizzshufied_02" />
+    <random_header image="cl_pizzshufied_03" />
+    <random_header image="cl_pizzshufied_04" />
+    <random_header image="cl_pizzshufied_05" />
+    <random_header image="cl_pizzshufied_06" />
+    <random_header image="cl_pizzshufied_07" />
+    <random_header image="cl_pizzshufied_08" />
+    <random_header image="cl_pizzshufied_09" />
 </daylight_headers>
