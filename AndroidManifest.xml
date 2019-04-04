@@ -163,7 +163,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".test_accent"
-            android:label="zwl | TEST" >
+            android:label="zwl | Test files and random stuff" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 

@@ -21,6 +21,9 @@ day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
     <random_header image="test_zerotwoeyes" />
+    <random_header image="sp_sub2pewdiepie" />
+    <random_header image="sp_sub2pewdiepie_accent" />
+    <random_header image="sp_sub2pewdiepie_gradient" />
     <random_header image="spd_sonicocnobg01" />
     <random_header image="spd_sonicocnobg02" />
     <random_header image="spd_sonicocnobg03" />
