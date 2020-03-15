@@ -279,8 +279,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             </intent-filter>
         </activity>
 	<activity
-	    android:name=".hentai_header"
-	    android:label="Hentai - Header" >
+	    android:name=".ecchi_header"
+	    android:label="Ecchi Header" >
 	    <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
