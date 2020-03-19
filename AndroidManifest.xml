@@ -287,5 +287,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
                 <category android:name="android.intent.category.DEFAULT" />
 	    </intent-filter>
 	</activity>
+	<activity
+	    android:name=".anime_header"
+	    android:label="Anime - Header" >
+	    <intent-filter>
+	    	<action android:name="org.omni.DaylightHeaderPack1" />
+
+		<category android:name="android.intent.category.DEFAULT" />
+	</intent-filter>
+	</activity>
     </application>
 </manifest>
