@@ -291,10 +291,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 	    android:name=".anime_header"
 	    android:label="Anime - Header" >
 	    <intent-filter>
-	    	<action android:name="org.omni.DaylightHeaderPack1" />
+	    	<action android:name="org.omnirom.DaylightHeaderPack1" />
 
 		<category android:name="android.intent.category.DEFAULT" />
-	</intent-filter>
+	   </intent-filter>
 	</activity>
     </application>
 </manifest>
