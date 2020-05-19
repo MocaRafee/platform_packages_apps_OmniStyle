@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright (C) 2020 Rebellion-OS
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!-- hour_header must be sorted based on hour
+entry can only be only one of hour or day/month type
+day_header entries have a higher priority then hour entries -->
+
+<daylight_headers>
+    <random_header image="Circles" />
+    <random_header image="Colourfull" />
+    <random_header image="DarkLeaf" />
+    <random_header image="DarkLines"/>
+    <random_header image="Darky" />
+    <random_header image="Fibers" />
+    <random_header image="HeaxagonDots" />
+    <random_header image="Leaf" />
+    <random_header image="LineCurves" />
+    <random_header image="Lines" />
+    <random_header image="LinesSpill" />
+    <random_header image="LiquidSpill" />
+    <random_header image="Minimal" />
+    <random_header image="PastelLiquify" />
+    <random_header image="Sea" />
+    <random_header image="SeaStones" />
+    <random_header image="ShotGun" />
+    <random_header image="SimpleSpace" />
+    <random_header image="Solid" />
+    <random_header image="Tiles" />
+    <random_header image="Violet" />
+    <random_header image="Waves" />
+
+</daylight_headers> 
